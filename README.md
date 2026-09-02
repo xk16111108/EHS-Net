@@ -7,7 +7,7 @@ This repository contains the model architecture and checkpoint-loading utilities
 ## Repository structure
 
 ```text
-EHS-Net-model/
+EHS-Net/
 `-- model/
     |-- __init__.py
     |-- architecture.py
